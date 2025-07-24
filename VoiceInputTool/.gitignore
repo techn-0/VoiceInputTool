@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,unity
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,unity
+# Created by https://www.toptal.com/developers/gitignore/api/unity,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=unity,visualstudiocode
 
 ### Unity ###
 # This .gitignore file should be placed at the root of your Unity project directory
@@ -93,4 +93,4 @@ crashlytics-build.properties
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,unity
+# End of https://www.toptal.com/developers/gitignore/api/unity,visualstudiocode
